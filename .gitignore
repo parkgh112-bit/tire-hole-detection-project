@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Datasets and Weights (Large files)
+dataset/
+tire/
+tire_set/
+전송용/
+*.pth
+*.pt
+trained_model/
+runs/
+outputs/
+*.onnx
+
+# IDE and Logs
+.vscode/
+.idea/
+logs/
+*.log
+
+# Environments
+.env
+venv/
+env/
+.venv/
