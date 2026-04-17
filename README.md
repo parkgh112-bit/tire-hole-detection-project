@@ -10,8 +10,12 @@
 - 조명 변화 대응을 위한 Adaptive CLAHE 전처리
 - Albumentations 기반 데이터 증강
 
+## 탐지 결과 예시
+<img width="600" height="1187" alt="스크린샷 2025-06-19 142013" src="https://github.com/user-attachments/assets/db8d5a64-ecde-4b39-84c0-025ded5ec448" />
+
+
 ## 저장소 범위
-이 저장소는 학습/추론을 위한 독립 실행 워크플로우만 포함합니다.
+이 레포지토리는 학습/추론을 위한 독립 실행 워크플로우만 포함합니다.
 회사 내부 서버, IPC, 배포 관련 코드는 제외되어 있습니다.
 
 ## 요구 사항
